@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"3XHS":function(e,t,n){"use strict";n.r(t);n("q1tI");var o=n("jkrH"),a=n("GqV1"),s=n("vrFN"),b=n("qKvR"),u={name:"1l7mgse",styles:"font-weight:normal;"};t.default=function(){return Object(b.b)(o.a,null,Object(b.b)(s.a,{title:"About zenshare, the easiest way to keep your team in the loop about your company news"}),Object(b.b)(a.a,null,Object(b.b)("h1",{css:u},"About Zenshare")))}}}]);
+//# sourceMappingURL=component---src-pages-about-js-93f012ec47e281317084.js.map
